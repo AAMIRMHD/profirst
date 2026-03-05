@@ -7,7 +7,6 @@ import Services from "./components/Services";
 import EventsConducted from "./components/EventsConducted";
 import Gallery from "./components/Gallery";
 import Booking from "./components/Booking";
-import Testimonials from "./components/Testimonials";
 import Footer from "./components/Footer";
 import IntroOverlay from "./components/IntroOverlay";
 
@@ -57,7 +56,6 @@ function App() {
         <EventsConducted />
         <Gallery />
         <Booking />
-        <Testimonials />
       </motion.main>
 
       <Footer />
