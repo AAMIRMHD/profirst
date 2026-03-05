@@ -105,28 +105,28 @@ export const conductedEvents = [
       "/videos/AQPRlWkPjFcuEinpB5SGZCdDoXdqAenlsw82FioHfMm71OvP9PXVwKAdsnBIu6gmlOZjNQJWzun0q5CvRlSICS4RYRxPITNwTlzx9pg.mp4"
   },
   {
-    title: "STAGE PERFORMANCE",
+    title: "EVENT REEL",
     location: "KOZHIKODE",
     year: "2024",
     videoUrl:
       "/videos/AQN7JCVOqSl0YrY649W_bMOwk6600IpU0UIB7L7QTReecaH3LDFnzUULaalAxgQp6WD_YVI1gMXBLyFlIHjj3ep3y_kS1WTHnC3C274.mp4"
   },
   {
-    title: "LIVE CONCERT",
+    title: "HIGHLIGHT",
     location: "KOZHIKODE",
     year: "2024",
     videoUrl:
       "/videos/AQNz22ILw_YiH1b185sIrc7OlenrQBZilXyj_EZQ-QnWqWwIrl8RxnByY48Q9Ni48VH_2n6mDBwRx0GSWo5ECto3s3X9CnayFLgzLY0.mp4"
   },
   {
-    title: "EVENT REEL",
+    title: "STAGE PERFORMANCE",
     location: "KERALA",
     year: "2024",
     videoUrl:
       "/videos/AQOY1baEwKwdVkrey12imcIhOwf4B8VqT2QhIRTqY5pLkkreM1CKMrJeWDrnSE7GoYyD7L6L8nDYkOLHscVE9DqtJkXA42N-Au6Cc-Y.mp4"
   },
   {
-    title: "WEDDING HIGHLIGHT",
+    title: "HIGHLIGHT",
     location: "KERALA",
     year: "2024",
     videoUrl:
